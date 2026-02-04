@@ -1,0 +1,4 @@
+C:\Testing_Proj\ConsolePublishEmailid\HBSADConsole.pdb
+C:\Testing_Proj\ConsolePublishEmailid\appsettings.json
+C:\Testing_Proj\ConsolePublishEmailid\HBSADLibrary.pdb
+C:\Testing_Proj\ConsolePublishEmailid\HBSADConsole.exe
