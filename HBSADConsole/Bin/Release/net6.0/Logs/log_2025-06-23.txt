@@ -1,0 +1,229 @@
+===== Log file started at 06/23/25 12:26:34 AM =====
+06/23/25 12:26:36 AM [INFO] - File Reader Started : 06/23/25 12:26:36 AM
+06/23/25 12:26:39 AM [INFO] - Connected to SFTP.
+06/23/25 12:26:41 AM [INFO] - Found CSV file: Test 06172025.csv
+06/23/25 12:26:47 AM [INFO] - Avinash Mahatpure
+06/23/25 12:26:48 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 12:26:51 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/23/25 12:26:54 AM [INFO] - Kevin Weidman
+06/23/25 12:26:54 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 12:26:56 AM [ERROR] - Mail Id for the user Kevin is not found
+06/23/25 12:26:57 AM [INFO] - Daniel Weston
+06/23/25 12:26:57 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 12:26:58 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/23/25 12:26:59 AM [INFO] - Before Update-AD Properties
+06/23/25 12:26:59 AM [INFO] - EmployeeID: 7FNNRONV2
+06/23/25 12:26:59 AM [INFO] - givenName: Daniel
+06/23/25 12:26:59 AM [INFO] - ExpiresDate object is null
+06/23/25 12:27:00 AM [INFO] - Loe Das
+06/23/25 12:27:00 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 12:27:01 AM [ERROR] - Mail Id for the user Loe is not found
+06/23/25 12:27:01 AM [INFO] - John Wick
+06/23/25 12:27:01 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 12:27:02 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/23/25 12:27:02 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/23/25 12:27:02 AM [INFO] - Disconnected from SFTP server.
+06/23/25 12:27:02 AM [INFO] - File Reader Completed : 06/23/25 12:27:02 AM
+===== Log file started at 06/23/25 12:48:49 AM =====
+06/23/25 12:48:50 AM [INFO] - File Reader Started : 06/23/25 12:48:50 AM
+06/23/25 12:48:54 AM [INFO] - Connected to SFTP.
+06/23/25 12:48:55 AM [INFO] - Found CSV file: Test 06172025.csv
+06/23/25 12:49:05 AM [INFO] - Avinash Mahatpure
+06/23/25 12:49:05 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 12:49:10 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/23/25 12:49:14 AM [INFO] - Kevin Weidman
+06/23/25 12:49:15 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 12:49:17 AM [ERROR] - Mail Id for the user Kevin is not found
+06/23/25 12:49:18 AM [INFO] - Daniel Weston
+06/23/25 12:49:18 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 12:49:21 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/23/25 12:49:22 AM [INFO] - Before Update-AD Properties
+06/23/25 12:49:22 AM [INFO] - EmployeeID: 7FNNRONV2
+06/23/25 12:49:22 AM [INFO] - givenName: Daniel
+06/23/25 12:49:29 AM [INFO] - ExpiresDate object is null
+06/23/25 12:49:30 AM [INFO] - Loe Das
+06/23/25 12:49:30 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 12:49:58 AM [ERROR] - Mail Id for the user Loe is not found
+06/23/25 12:49:59 AM [INFO] - John Wick
+06/23/25 12:49:59 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 12:50:02 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/23/25 12:50:04 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/23/25 12:50:04 AM [INFO] - Disconnected from SFTP server.
+06/23/25 12:50:04 AM [INFO] - File Reader Completed : 06/23/25 12:50:04 AM
+===== Log file started at 06/23/25 3:24:12 AM =====
+06/23/25 3:24:13 AM [INFO] - File Reader Started : 06/23/25 3:24:13 AM
+06/23/25 3:24:16 AM [INFO] - Connected to SFTP.
+06/23/25 3:24:17 AM [INFO] - Found CSV file: Test 06172025.csv
+06/23/25 3:24:19 AM [INFO] - Avinash Mahatpure
+06/23/25 3:24:19 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:24:33 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/23/25 3:24:33 AM [INFO] - Kevin Weidman
+06/23/25 3:24:33 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:24:35 AM [ERROR] - Mail Id for the user Kevin is not found
+06/23/25 3:24:37 AM [INFO] - Daniel Weston
+06/23/25 3:24:37 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:24:40 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/23/25 3:24:40 AM [INFO] - Before Update-AD Properties
+06/23/25 3:24:40 AM [INFO] - EmployeeID: 7FNNRONV2
+06/23/25 3:24:40 AM [INFO] - givenName: Daniel
+06/23/25 3:24:42 AM [INFO] - ExpiresDate object is null
+06/23/25 3:24:43 AM [INFO] - Loe Das
+06/23/25 3:24:43 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:24:45 AM [ERROR] - Mail Id for the user Loe is not found
+06/23/25 3:24:46 AM [INFO] - John Wick
+06/23/25 3:24:46 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:24:49 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/23/25 3:24:50 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/23/25 3:24:50 AM [INFO] - Disconnected from SFTP server.
+06/23/25 3:24:50 AM [INFO] - File Reader Completed : 06/23/25 3:24:50 AM
+===== Log file started at 06/23/25 3:40:31 AM =====
+06/23/25 3:40:31 AM [INFO] - File Reader Started : 06/23/25 3:40:31 AM
+06/23/25 3:40:35 AM [INFO] - Connected to SFTP.
+06/23/25 3:40:40 AM [INFO] - Found CSV file: Test 06172025.csv
+06/23/25 3:40:42 AM [INFO] - Avinash Mahatpure
+06/23/25 3:40:42 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:40:51 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/23/25 3:40:53 AM [INFO] - Kevin Weidman
+06/23/25 3:40:53 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:40:58 AM [ERROR] - Mail Id for the user Kevin is not found
+06/23/25 3:40:59 AM [INFO] - Daniel Weston
+06/23/25 3:40:59 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:41:02 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/23/25 3:41:04 AM [INFO] - Before Update-AD Properties
+06/23/25 3:41:04 AM [INFO] - EmployeeID: 7FNNRONV2
+06/23/25 3:41:04 AM [INFO] - givenName: Daniel
+06/23/25 3:41:06 AM [INFO] - ExpiresDate object is null
+06/23/25 3:41:08 AM [INFO] - Loe Das
+06/23/25 3:41:08 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:41:12 AM [ERROR] - Mail Id for the user Loe is not found
+06/23/25 3:41:13 AM [INFO] - John Wick
+06/23/25 3:41:13 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:41:16 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/23/25 3:41:19 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/23/25 3:41:19 AM [INFO] - Disconnected from SFTP server.
+06/23/25 3:41:19 AM [INFO] - File Reader Completed : 06/23/25 3:41:19 AM
+===== Log file started at 06/23/25 3:47:07 AM =====
+06/23/25 3:47:07 AM [INFO] - File Reader Started : 06/23/25 3:47:07 AM
+06/23/25 3:47:11 AM [INFO] - Connected to SFTP.
+06/23/25 3:47:12 AM [INFO] - Found CSV file: Test 06172025.csv
+06/23/25 3:47:14 AM [INFO] - Avinash Mahatpure
+06/23/25 3:47:14 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:47:35 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/23/25 3:47:36 AM [INFO] - Kevin Weidman
+06/23/25 3:47:36 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:47:40 AM [ERROR] - Mail Id for the user Kevin is not found
+06/23/25 3:47:41 AM [INFO] - Daniel Weston
+06/23/25 3:47:41 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:47:45 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/23/25 3:47:46 AM [INFO] - Before Update-AD Properties
+06/23/25 3:47:46 AM [INFO] - EmployeeID: 7FNNRONV2
+06/23/25 3:47:46 AM [INFO] - givenName: Daniel
+06/23/25 3:47:50 AM [INFO] - ExpiresDate object is null
+06/23/25 3:47:51 AM [INFO] - Loe Das
+06/23/25 3:47:51 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:47:57 AM [ERROR] - Mail Id for the user Loe is not found
+06/23/25 3:47:59 AM [INFO] - John Wick
+06/23/25 3:47:59 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 3:48:02 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/23/25 3:49:15 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/23/25 3:49:15 AM [INFO] - Disconnected from SFTP server.
+06/23/25 3:49:15 AM [INFO] - File Reader Completed : 06/23/25 3:49:15 AM
+===== Log file started at 06/23/25 4:08:39 AM =====
+06/23/25 4:08:39 AM [INFO] - File Reader Started : 06/23/25 4:08:39 AM
+06/23/25 4:08:45 AM [INFO] - Connected to SFTP.
+06/23/25 4:08:57 AM [INFO] - Found CSV file: Test 06172025.csv
+06/23/25 4:08:59 AM [INFO] - Avinash Mahatpure
+06/23/25 4:08:59 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:09:08 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/23/25 4:09:09 AM [INFO] - Kevin Weidman
+06/23/25 4:09:09 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:09:12 AM [ERROR] - Mail Id for the user Kevin is not found
+06/23/25 4:09:13 AM [INFO] - Daniel Weston
+06/23/25 4:09:13 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:09:15 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/23/25 4:09:16 AM [INFO] - Before Update-AD Properties
+06/23/25 4:09:16 AM [INFO] - EmployeeID: 7FNNRONV2
+06/23/25 4:09:16 AM [INFO] - givenName: Daniel
+06/23/25 4:09:19 AM [INFO] - ExpiresDate object is null
+06/23/25 4:09:20 AM [INFO] - Loe Das
+06/23/25 4:09:20 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:09:22 AM [ERROR] - Mail Id for the user Loe is not found
+06/23/25 4:09:24 AM [INFO] - John Wick
+06/23/25 4:09:24 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:09:26 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/23/25 4:09:50 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-23-2025_04-09-27-AM_Test 06172025.csv
+06/23/25 4:09:50 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/23/25 4:09:50 AM [INFO] - Disconnected from SFTP server.
+06/23/25 4:09:50 AM [INFO] - File Reader Completed : 06/23/25 4:09:50 AM
+===== Log file started at 06/23/25 4:14:18 AM =====
+06/23/25 4:14:18 AM [INFO] - File Reader Started : 06/23/25 4:14:18 AM
+06/23/25 4:14:21 AM [INFO] - Connected to SFTP.
+06/23/25 4:14:23 AM [INFO] - Found CSV file: Test 06172025.csv
+06/23/25 4:14:24 AM [INFO] - Avinash Mahatpure
+06/23/25 4:14:24 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:14:24 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/23/25 4:14:24 AM [INFO] - Kevin Weidman
+06/23/25 4:14:24 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:14:24 AM [ERROR] - Mail Id for the user Kevin is not found
+06/23/25 4:14:25 AM [INFO] - Daniel Weston
+06/23/25 4:14:25 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:14:25 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/23/25 4:14:25 AM [INFO] - Before Update-AD Properties
+06/23/25 4:14:25 AM [INFO] - EmployeeID: 7FNNRONV2
+06/23/25 4:14:25 AM [INFO] - givenName: Daniel
+06/23/25 4:14:25 AM [INFO] - ExpiresDate object is null
+06/23/25 4:14:25 AM [INFO] - Loe Das
+06/23/25 4:14:25 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:14:25 AM [ERROR] - Mail Id for the user Loe is not found
+06/23/25 4:14:25 AM [INFO] - John Wick
+06/23/25 4:14:25 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:14:25 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/23/25 4:14:25 AM [INFO] - Karthik Dev
+06/23/25 4:14:25 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:14:25 AM [ERROR] - Mail Id for the user Karthik is not found
+06/23/25 4:14:25 AM [INFO] - Sankar Sekar
+06/23/25 4:14:25 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:14:25 AM [ERROR] - No user found with email:: sankarSekar@harmonybiosciences.com
+06/23/25 4:14:34 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-23-2025_04-14-25-AM_Test 06172025.csv
+06/23/25 4:14:34 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/23/25 4:14:34 AM [INFO] - Disconnected from SFTP server.
+06/23/25 4:14:34 AM [INFO] - File Reader Completed : 06/23/25 4:14:34 AM
+===== Log file started at 06/23/25 4:21:14 AM =====
+06/23/25 4:21:14 AM [INFO] - File Reader Started : 06/23/25 4:21:14 AM
+06/23/25 4:21:19 AM [INFO] - Connected to SFTP.
+06/23/25 4:21:20 AM [INFO] - Found CSV file: Test 06172025.csv
+06/23/25 4:21:22 AM [INFO] - Avinash Mahatpure
+06/23/25 4:21:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:21:22 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/23/25 4:21:22 AM [INFO] - Kevin Weidman
+06/23/25 4:21:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:21:22 AM [ERROR] - Mail Id for the user Kevin is not found
+06/23/25 4:21:22 AM [INFO] - Daniel Weston
+06/23/25 4:21:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:21:22 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/23/25 4:21:22 AM [INFO] - Before Update-AD Properties
+06/23/25 4:21:22 AM [INFO] - EmployeeID: 7FNNRONV2
+06/23/25 4:21:22 AM [INFO] - givenName: Daniel
+06/23/25 4:21:22 AM [INFO] - ExpiresDate object is null
+06/23/25 4:21:22 AM [INFO] - Loe Das
+06/23/25 4:21:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:21:22 AM [ERROR] - Mail Id for the user Loe is not found
+06/23/25 4:21:22 AM [INFO] - John Wick
+06/23/25 4:21:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:21:22 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/23/25 4:21:22 AM [INFO] - Karthik Dev
+06/23/25 4:21:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:21:22 AM [ERROR] - Mail Id for the user Karthik is not found
+06/23/25 4:21:22 AM [INFO] - Sankar Sekar
+06/23/25 4:21:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:21:22 AM [ERROR] - No user found with email:: sankarSekar@harmonybiosciences.com
+06/23/25 4:21:22 AM [INFO] - Jack daniel
+06/23/25 4:21:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:21:22 AM [ERROR] - Mail Id for the user Jack is not found
+06/23/25 4:21:22 AM [INFO] - Wills Smith
+06/23/25 4:21:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/23/25 4:21:22 AM [ERROR] - No user found with email:: willssmith@harmonybiosciences.com
+06/23/25 4:21:30 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-23-2025_04-21-22-AM_Test 06172025.csv
+06/23/25 4:21:30 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/23/25 4:21:30 AM [INFO] - Disconnected from SFTP server.
+06/23/25 4:21:30 AM [INFO] - File Reader Completed : 06/23/25 4:21:30 AM

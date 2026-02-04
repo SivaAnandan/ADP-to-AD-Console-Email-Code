@@ -1,0 +1,9 @@
+===== Log file started at 02/03/26 9:36:23 AM =====
+02/03/26 9:36:23 AM [INFO] - File Reader Started : 02/03/26 9:36:23 AM
+02/03/26 9:36:54 AM [ERROR] - Error connecting or processing files: Socket read operation has timed out after 30000 milliseconds.
+===== Log file started at 02/03/26 9:38:32 AM =====
+02/03/26 9:38:33 AM [INFO] - File Reader Started : 02/03/26 9:38:33 AM
+02/03/26 9:39:03 AM [ERROR] - Error connecting or processing files: Socket read operation has timed out after 30000 milliseconds.
+===== Log file started at 02/03/26 9:39:42 AM =====
+02/03/26 9:39:43 AM [INFO] - File Reader Started : 02/03/26 9:39:43 AM
+02/03/26 9:40:13 AM [ERROR] - Error connecting or processing files: Socket read operation has timed out after 30000 milliseconds.

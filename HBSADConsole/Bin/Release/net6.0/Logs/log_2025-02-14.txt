@@ -1,0 +1,44 @@
+===== Log file started at 02/14/25 9:34:22 AM =====
+02/14/25 9:34:23 AM [INFO] - File Reader Started : 02/14/25 9:34:23 AM
+02/14/25 9:34:26 AM [INFO] - Connected to SFTP.
+02/14/25 9:34:27 AM [INFO] - Found CSV file: ADP to AD Employee FIle only IT Team 02142025.csv
+===== Log file started at 02/14/25 9:38:54 AM =====
+02/14/25 9:38:54 AM [INFO] - File Reader Started : 02/14/25 9:38:54 AM
+02/14/25 9:38:57 AM [INFO] - Connected to SFTP.
+02/14/25 9:38:59 AM [INFO] - Found CSV file: ADP to AD Employee FIle only IT Team 02142025.csv
+02/14/25 9:39:08 AM [INFO] - Moved file ADP to AD Employee FIle only IT Team 02142025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/02-14-2025_09-39-00-AM_ADP to AD Employee FIle only IT Team 02142025.csv
+02/14/25 9:39:08 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/ADP to AD Employee FIle only IT Team 02142025.csv: Header with name 'Expiration Date'[0] was not found.
+Headers: 'EmployeeID', 'UID', 'Mail', 'SurName', 'GivenName', 'PreferredName', 'Nickname', 'Accredidation', 'jobTitle', 'Manager', 'businessPhones', 'Mobile', 'Department', 'officeLocation', 'Expiration_Date'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 15
+   CurrentIndex: -1
+   HeaderRecord:
+["EmployeeID","UID","Mail","SurName","GivenName","PreferredName","Nickname","Accredidation","jobTitle","Manager","businessPhones","Mobile","Department","officeLocation","Expiration_Date"]
+IParser state:
+   ByteCount: 0
+   CharCount: 157
+   Row: 1
+   RawRow: 1
+   Count: 15
+   RawRecord:
+EmployeeID,UID,Mail,SurName,GivenName,PreferredName,Nickname,Accredidation,jobTitle,Manager,businessPhones,Mobile,Department,officeLocation,Expiration_Date
+
+
+02/14/25 9:39:09 AM [ERROR] - Error moving file /home/users/hbsdevsftp_ad_user/Outbound/ADP to AD Employee FIle only IT Team 02142025.csv to /home/users/hbsdevsftp_ad_user/Inbound: No such file or directory
+02/14/25 9:39:09 AM [ERROR] - Error listing or processing CSV files: No such file or directory
+02/14/25 9:39:09 AM [INFO] - Disconnected from SFTP server.
+02/14/25 9:39:09 AM [INFO] - File Reader Completed : 02/14/25 9:39:09 AM
+===== Log file started at 02/14/25 9:40:14 AM =====
+02/14/25 9:40:14 AM [INFO] - File Reader Started : 02/14/25 9:40:14 AM
+02/14/25 9:40:17 AM [INFO] - Connected to SFTP.
+02/14/25 9:40:19 AM [INFO] - Disconnected from SFTP server.
+02/14/25 9:40:19 AM [INFO] - File Reader Completed : 02/14/25 9:40:19 AM
+===== Log file started at 02/14/25 9:40:30 AM =====
+02/14/25 9:40:30 AM [INFO] - File Reader Started : 02/14/25 9:40:30 AM
+02/14/25 9:40:33 AM [INFO] - Connected to SFTP.
+02/14/25 9:40:35 AM [INFO] - Disconnected from SFTP server.
+02/14/25 9:40:35 AM [INFO] - File Reader Completed : 02/14/25 9:40:35 AM
+===== Log file started at 02/14/25 9:41:00 AM =====
+02/14/25 9:41:00 AM [INFO] - File Reader Started : 02/14/25 9:41:00 AM

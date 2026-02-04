@@ -1,0 +1,569 @@
+===== Log file started at 06/20/25 5:10:56 AM =====
+06/20/25 5:10:57 AM [INFO] - File Reader Started : 06/20/25 5:10:57 AM
+06/20/25 5:11:09 AM [INFO] - Connected to SFTP.
+06/20/25 5:11:11 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 5:11:13 AM [INFO] - Avinash Mahatpure
+06/20/25 5:11:13 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:11:14 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 5:11:14 AM [INFO] - Kevin Weidman
+06/20/25 5:11:14 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:11:14 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 5:11:14 AM [INFO] - Daniel Weston
+06/20/25 5:11:14 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:11:14 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 5:11:14 AM [INFO] - Before Update-AD Properties
+06/20/25 5:11:14 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 5:11:14 AM [INFO] - givenName: Daniel
+06/20/25 5:11:14 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 5:11:23 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-20-2025_05-11-14-AM_Test 06172025.csv
+06/20/25 5:11:23 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/20/25 5:11:23 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:11:23 AM [INFO] - File Reader Completed : 06/20/25 5:11:23 AM
+===== Log file started at 06/20/25 5:14:15 AM =====
+06/20/25 5:14:16 AM [INFO] - File Reader Started : 06/20/25 5:14:16 AM
+06/20/25 5:14:19 AM [INFO] - Connected to SFTP.
+06/20/25 5:14:20 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 5:14:22 AM [INFO] - Avinash Mahatpure
+06/20/25 5:14:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:14:22 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 5:14:22 AM [INFO] - Kevin Weidman
+06/20/25 5:14:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:14:22 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 5:14:22 AM [INFO] - Daniel Weston
+06/20/25 5:14:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:14:22 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 5:14:22 AM [INFO] - Before Update-AD Properties
+06/20/25 5:14:22 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 5:14:22 AM [INFO] - givenName: Daniel
+06/20/25 5:14:22 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 5:14:30 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-20-2025_05-14-22-AM_Test 06172025.csv
+06/20/25 5:14:30 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/20/25 5:14:31 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:14:31 AM [INFO] - File Reader Completed : 06/20/25 5:14:31 AM
+===== Log file started at 06/20/25 5:14:50 AM =====
+06/20/25 5:14:50 AM [INFO] - File Reader Started : 06/20/25 5:14:50 AM
+06/20/25 5:14:53 AM [INFO] - Connected to SFTP.
+06/20/25 5:14:55 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:14:55 AM [INFO] - File Reader Completed : 06/20/25 5:14:55 AM
+===== Log file started at 06/20/25 5:15:15 AM =====
+06/20/25 5:15:15 AM [INFO] - File Reader Started : 06/20/25 5:15:15 AM
+06/20/25 5:15:18 AM [INFO] - Connected to SFTP.
+06/20/25 5:15:19 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:15:19 AM [INFO] - File Reader Completed : 06/20/25 5:15:19 AM
+===== Log file started at 06/20/25 5:15:54 AM =====
+06/20/25 5:15:54 AM [INFO] - File Reader Started : 06/20/25 5:15:54 AM
+06/20/25 5:15:58 AM [INFO] - Connected to SFTP.
+06/20/25 5:15:59 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:15:59 AM [INFO] - File Reader Completed : 06/20/25 5:15:59 AM
+===== Log file started at 06/20/25 5:16:10 AM =====
+06/20/25 5:16:10 AM [INFO] - File Reader Started : 06/20/25 5:16:10 AM
+06/20/25 5:16:13 AM [INFO] - Connected to SFTP.
+06/20/25 5:16:14 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:16:14 AM [INFO] - File Reader Completed : 06/20/25 5:16:14 AM
+===== Log file started at 06/20/25 5:16:57 AM =====
+06/20/25 5:16:57 AM [INFO] - File Reader Started : 06/20/25 5:16:57 AM
+06/20/25 5:17:00 AM [INFO] - Connected to SFTP.
+06/20/25 5:17:02 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:17:02 AM [INFO] - File Reader Completed : 06/20/25 5:17:02 AM
+===== Log file started at 06/20/25 5:17:18 AM =====
+06/20/25 5:17:18 AM [INFO] - File Reader Started : 06/20/25 5:17:18 AM
+06/20/25 5:17:22 AM [INFO] - Connected to SFTP.
+06/20/25 5:17:23 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:17:23 AM [INFO] - File Reader Completed : 06/20/25 5:17:23 AM
+===== Log file started at 06/20/25 5:17:46 AM =====
+06/20/25 5:17:46 AM [INFO] - File Reader Started : 06/20/25 5:17:46 AM
+06/20/25 5:17:52 AM [INFO] - Connected to SFTP.
+06/20/25 5:17:54 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:17:54 AM [INFO] - File Reader Completed : 06/20/25 5:17:54 AM
+===== Log file started at 06/20/25 5:21:12 AM =====
+06/20/25 5:21:12 AM [INFO] - File Reader Started : 06/20/25 5:21:12 AM
+06/20/25 5:21:17 AM [INFO] - Connected to SFTP.
+06/20/25 5:21:19 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:21:19 AM [INFO] - File Reader Completed : 06/20/25 5:21:19 AM
+===== Log file started at 06/20/25 5:21:53 AM =====
+06/20/25 5:21:53 AM [INFO] - File Reader Started : 06/20/25 5:21:53 AM
+06/20/25 5:22:07 AM [INFO] - Connected to SFTP.
+06/20/25 5:22:09 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:22:09 AM [INFO] - File Reader Completed : 06/20/25 5:22:09 AM
+===== Log file started at 06/20/25 5:38:11 AM =====
+06/20/25 5:38:11 AM [INFO] - File Reader Started : 06/20/25 5:38:11 AM
+06/20/25 5:39:04 AM [INFO] - Connected to SFTP.
+06/20/25 5:39:05 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 5:39:21 AM [INFO] - Avinash Mahatpure
+06/20/25 5:39:24 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:39:28 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 5:39:28 AM [INFO] - Kevin Weidman
+06/20/25 5:39:31 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:39:34 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 5:39:35 AM [INFO] - Daniel Weston
+06/20/25 5:39:37 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:39:38 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 5:39:38 AM [INFO] - Before Update-AD Properties
+06/20/25 5:39:38 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 5:39:38 AM [INFO] - givenName: Daniel
+06/20/25 5:39:38 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 5:39:52 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-20-2025_05-39-38-AM_Test 06172025.csv
+06/20/25 5:39:52 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/20/25 5:39:52 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:39:52 AM [INFO] - File Reader Completed : 06/20/25 5:39:52 AM
+===== Log file started at 06/20/25 5:41:04 AM =====
+06/20/25 5:41:04 AM [INFO] - File Reader Started : 06/20/25 5:41:04 AM
+06/20/25 5:41:11 AM [INFO] - Connected to SFTP.
+06/20/25 5:41:13 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:41:13 AM [INFO] - File Reader Completed : 06/20/25 5:41:13 AM
+===== Log file started at 06/20/25 5:43:13 AM =====
+06/20/25 5:43:13 AM [INFO] - File Reader Started : 06/20/25 5:43:13 AM
+06/20/25 5:43:25 AM [INFO] - Connected to SFTP.
+06/20/25 5:43:27 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 5:43:44 AM [INFO] - Avinash Mahatpure
+06/20/25 5:43:47 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:43:52 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 5:43:53 AM [INFO] - Kevin Weidman
+06/20/25 5:43:56 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:44:00 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 5:45:18 AM [INFO] - Daniel Weston
+06/20/25 5:45:21 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:45:38 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 5:45:38 AM [INFO] - Before Update-AD Properties
+06/20/25 5:45:38 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 5:45:38 AM [INFO] - givenName: Daniel
+06/20/25 5:45:38 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 5:45:39 AM [ERROR] - Error moving file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure: No such file or directory
+06/20/25 5:45:39 AM [ERROR] - Error listing or processing CSV files: No such file or directory
+06/20/25 5:45:40 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:45:40 AM [INFO] - File Reader Completed : 06/20/25 5:45:40 AM
+===== Log file started at 06/20/25 5:46:08 AM =====
+06/20/25 5:46:08 AM [INFO] - File Reader Started : 06/20/25 5:46:08 AM
+06/20/25 5:46:15 AM [INFO] - Connected to SFTP.
+06/20/25 5:46:17 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:46:17 AM [INFO] - File Reader Completed : 06/20/25 5:46:17 AM
+===== Log file started at 06/20/25 5:47:22 AM =====
+06/20/25 5:47:22 AM [INFO] - File Reader Started : 06/20/25 5:47:22 AM
+06/20/25 5:47:30 AM [INFO] - Connected to SFTP.
+06/20/25 5:47:31 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 5:48:03 AM [INFO] - Avinash Mahatpure
+06/20/25 5:48:14 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:48:35 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 5:48:38 AM [INFO] - Kevin Weidman
+06/20/25 5:49:13 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:49:17 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 5:49:36 AM [INFO] - Daniel Weston
+06/20/25 5:49:38 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:49:47 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 5:49:47 AM [INFO] - Before Update-AD Properties
+06/20/25 5:49:47 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 5:49:47 AM [INFO] - givenName: Daniel
+06/20/25 5:49:47 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 5:49:54 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-20-2025_05-49-47-AM_Test 06172025.csv
+06/20/25 5:49:54 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/20/25 5:49:55 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:49:55 AM [INFO] - File Reader Completed : 06/20/25 5:49:55 AM
+===== Log file started at 06/20/25 5:54:08 AM =====
+06/20/25 5:54:08 AM [INFO] - File Reader Started : 06/20/25 5:54:08 AM
+06/20/25 5:54:12 AM [INFO] - Connected to SFTP.
+06/20/25 5:54:13 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 5:54:15 AM [INFO] - Avinash Mahatpure
+06/20/25 5:54:15 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:54:15 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 5:54:15 AM [INFO] - Kevin Weidman
+06/20/25 5:54:15 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:54:15 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 5:54:15 AM [INFO] - Daniel Weston
+06/20/25 5:54:15 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:54:15 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 5:54:15 AM [INFO] - Before Update-AD Properties
+06/20/25 5:54:15 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 5:54:15 AM [INFO] - givenName: Daniel
+06/20/25 5:54:15 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 5:54:24 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-20-2025_05-54-15-AM_Test 06172025.csv
+06/20/25 5:54:24 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/20/25 5:54:24 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:54:24 AM [INFO] - File Reader Completed : 06/20/25 5:54:24 AM
+===== Log file started at 06/20/25 5:55:03 AM =====
+06/20/25 5:55:03 AM [INFO] - File Reader Started : 06/20/25 5:55:03 AM
+06/20/25 5:55:06 AM [INFO] - Connected to SFTP.
+06/20/25 5:55:08 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:55:08 AM [INFO] - File Reader Completed : 06/20/25 5:55:08 AM
+===== Log file started at 06/20/25 5:55:54 AM =====
+06/20/25 5:55:54 AM [INFO] - File Reader Started : 06/20/25 5:55:54 AM
+06/20/25 5:55:57 AM [INFO] - Connected to SFTP.
+06/20/25 5:55:58 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 5:56:00 AM [INFO] - Avinash Mahatpure
+06/20/25 5:56:00 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:56:00 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 5:56:00 AM [INFO] - Kevin Weidman
+06/20/25 5:56:00 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:56:00 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 5:56:00 AM [INFO] - Daniel Weston
+06/20/25 5:56:00 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 5:56:00 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 5:56:00 AM [INFO] - Before Update-AD Properties
+06/20/25 5:56:00 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 5:56:00 AM [INFO] - givenName: Daniel
+06/20/25 5:56:00 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 5:56:07 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-20-2025_05-56-00-AM_Test 06172025.csv
+06/20/25 5:56:07 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/20/25 5:56:08 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:56:08 AM [INFO] - File Reader Completed : 06/20/25 5:56:08 AM
+===== Log file started at 06/20/25 5:58:55 AM =====
+06/20/25 5:58:55 AM [INFO] - File Reader Started : 06/20/25 5:58:55 AM
+06/20/25 5:58:58 AM [INFO] - Connected to SFTP.
+06/20/25 5:59:00 AM [INFO] - Disconnected from SFTP server.
+06/20/25 5:59:00 AM [INFO] - File Reader Completed : 06/20/25 5:59:00 AM
+===== Log file started at 06/20/25 6:01:41 AM =====
+06/20/25 6:01:41 AM [INFO] - File Reader Started : 06/20/25 6:01:41 AM
+06/20/25 6:01:44 AM [INFO] - Connected to SFTP.
+06/20/25 6:01:45 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 6:02:08 AM [INFO] - Avinash Mahatpure
+06/20/25 6:02:13 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:02:29 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 6:02:49 AM [INFO] - Kevin Weidman
+06/20/25 6:02:51 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:02:55 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 6:03:35 AM [INFO] - Daniel Weston
+06/20/25 6:03:38 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:03:43 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 6:03:43 AM [INFO] - Before Update-AD Properties
+06/20/25 6:03:43 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 6:03:43 AM [INFO] - givenName: Daniel
+06/20/25 6:03:43 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 6:04:40 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-20-2025_06-03-43-AM_Test 06172025.csv
+06/20/25 6:04:40 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/20/25 6:04:40 AM [INFO] - Disconnected from SFTP server.
+06/20/25 6:04:40 AM [INFO] - File Reader Completed : 06/20/25 6:04:40 AM
+===== Log file started at 06/20/25 6:07:53 AM =====
+06/20/25 6:07:53 AM [INFO] - File Reader Started : 06/20/25 6:07:53 AM
+06/20/25 6:08:04 AM [INFO] - Connected to SFTP.
+06/20/25 6:08:05 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 6:08:32 AM [INFO] - Avinash Mahatpure
+06/20/25 6:08:35 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:08:47 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 6:09:05 AM [INFO] - Kevin Weidman
+06/20/25 6:09:09 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:09:12 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 6:09:28 AM [INFO] - Daniel Weston
+06/20/25 6:09:30 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:09:45 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 6:09:45 AM [INFO] - Before Update-AD Properties
+06/20/25 6:09:45 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 6:09:45 AM [INFO] - givenName: Daniel
+06/20/25 6:09:45 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 6:10:00 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-20-2025_06-09-45-AM_Test 06172025.csv
+06/20/25 6:10:00 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/20/25 6:10:00 AM [INFO] - Disconnected from SFTP server.
+06/20/25 6:10:00 AM [INFO] - File Reader Completed : 06/20/25 6:10:00 AM
+===== Log file started at 06/20/25 6:12:40 AM =====
+06/20/25 6:12:40 AM [INFO] - File Reader Started : 06/20/25 6:12:40 AM
+06/20/25 6:13:01 AM [INFO] - Connected to SFTP.
+06/20/25 6:13:02 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 6:14:06 AM [INFO] - Avinash Mahatpure
+06/20/25 6:14:37 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:14:39 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 6:14:53 AM [INFO] - Kevin Weidman
+06/20/25 6:14:53 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:15:18 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 6:15:23 AM [INFO] - Daniel Weston
+06/20/25 6:15:23 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:15:33 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 6:15:33 AM [INFO] - Before Update-AD Properties
+06/20/25 6:15:33 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 6:15:33 AM [INFO] - givenName: Daniel
+06/20/25 6:15:33 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 6:15:34 AM [ERROR] - Error moving file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure: No such file or directory
+06/20/25 6:15:34 AM [ERROR] - Error listing or processing CSV files: No such file or directory
+06/20/25 6:15:35 AM [INFO] - Disconnected from SFTP server.
+06/20/25 6:15:35 AM [INFO] - File Reader Completed : 06/20/25 6:15:35 AM
+===== Log file started at 06/20/25 6:23:07 AM =====
+06/20/25 6:23:07 AM [INFO] - File Reader Started : 06/20/25 6:23:07 AM
+06/20/25 6:23:10 AM [INFO] - Connected to SFTP.
+06/20/25 6:23:12 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 6:23:44 AM [INFO] - Avinash Mahatpure
+06/20/25 6:23:44 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:23:46 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 6:23:59 AM [INFO] - Kevin Weidman
+06/20/25 6:23:59 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:24:02 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 6:24:06 AM [INFO] - Daniel Weston
+06/20/25 6:24:06 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:24:08 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 6:24:08 AM [INFO] - Before Update-AD Properties
+06/20/25 6:24:08 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 6:24:08 AM [INFO] - givenName: Daniel
+06/20/25 6:24:08 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 6:25:19 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-20-2025_06-24-08-AM_Test 06172025.csv
+06/20/25 6:25:19 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/20/25 6:25:19 AM [INFO] - Disconnected from SFTP server.
+06/20/25 6:25:19 AM [INFO] - File Reader Completed : 06/20/25 6:25:19 AM
+===== Log file started at 06/20/25 6:28:02 AM =====
+06/20/25 6:28:02 AM [INFO] - File Reader Started : 06/20/25 6:28:02 AM
+06/20/25 6:28:05 AM [INFO] - Connected to SFTP.
+06/20/25 6:28:07 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 6:28:38 AM [INFO] - Avinash Mahatpure
+06/20/25 6:28:38 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:28:39 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 6:28:43 AM [INFO] - Kevin Weidman
+06/20/25 6:28:43 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:28:47 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 6:28:51 AM [INFO] - Daniel Weston
+06/20/25 6:28:51 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:29:58 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 6:29:58 AM [INFO] - Before Update-AD Properties
+06/20/25 6:29:58 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 6:29:58 AM [INFO] - givenName: Daniel
+06/20/25 6:29:58 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 6:31:13 AM [ERROR] - Error moving file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure: No such file or directory
+06/20/25 6:31:13 AM [ERROR] - Error listing or processing CSV files: No such file or directory
+06/20/25 6:31:14 AM [INFO] - Disconnected from SFTP server.
+06/20/25 6:31:14 AM [INFO] - File Reader Completed : 06/20/25 6:31:14 AM
+===== Log file started at 06/20/25 6:32:49 AM =====
+06/20/25 6:32:49 AM [INFO] - File Reader Started : 06/20/25 6:32:49 AM
+06/20/25 6:32:52 AM [INFO] - Connected to SFTP.
+06/20/25 6:32:54 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 6:33:11 AM [INFO] - Avinash Mahatpure
+06/20/25 6:33:11 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:33:12 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 6:33:18 AM [INFO] - Kevin Weidman
+06/20/25 6:33:18 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:33:27 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 6:33:38 AM [INFO] - Daniel Weston
+06/20/25 6:33:38 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:36:13 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 6:36:13 AM [INFO] - Before Update-AD Properties
+06/20/25 6:36:13 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 6:36:13 AM [INFO] - givenName: Daniel
+06/20/25 6:36:13 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 6:37:15 AM [ERROR] - Error moving file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure: The session is not open.
+06/20/25 6:37:15 AM [ERROR] - Error listing or processing CSV files: The session is not open.
+===== Log file started at 06/20/25 6:37:35 AM =====
+06/20/25 6:37:35 AM [INFO] - File Reader Started : 06/20/25 6:37:35 AM
+06/20/25 6:37:38 AM [INFO] - Connected to SFTP.
+06/20/25 6:37:40 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 6:37:55 AM [INFO] - Avinash Mahatpure
+06/20/25 6:37:55 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:37:57 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 6:38:08 AM [INFO] - Kevin Weidman
+06/20/25 6:38:08 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:38:12 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 6:38:17 AM [INFO] - Daniel Weston
+06/20/25 6:38:17 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:39:23 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 6:39:40 AM [INFO] - Before Update-AD Properties
+06/20/25 6:39:45 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 6:39:45 AM [INFO] - givenName: Daniel
+06/20/25 6:39:45 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 6:40:43 AM [ERROR] - Error moving file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure: No such file or directory
+06/20/25 6:40:43 AM [ERROR] - Error listing or processing CSV files: No such file or directory
+06/20/25 6:40:44 AM [INFO] - Disconnected from SFTP server.
+06/20/25 6:40:44 AM [INFO] - File Reader Completed : 06/20/25 6:40:44 AM
+===== Log file started at 06/20/25 6:46:14 AM =====
+06/20/25 6:46:14 AM [INFO] - File Reader Started : 06/20/25 6:46:14 AM
+06/20/25 6:46:18 AM [INFO] - Connected to SFTP.
+06/20/25 6:46:20 AM [INFO] - Disconnected from SFTP server.
+06/20/25 6:46:20 AM [INFO] - File Reader Completed : 06/20/25 6:46:20 AM
+===== Log file started at 06/20/25 6:47:02 AM =====
+06/20/25 6:47:02 AM [INFO] - File Reader Started : 06/20/25 6:47:02 AM
+06/20/25 6:47:05 AM [INFO] - Connected to SFTP.
+06/20/25 6:47:07 AM [INFO] - Disconnected from SFTP server.
+06/20/25 6:47:07 AM [INFO] - File Reader Completed : 06/20/25 6:47:07 AM
+===== Log file started at 06/20/25 6:47:56 AM =====
+06/20/25 6:47:56 AM [INFO] - File Reader Started : 06/20/25 6:47:56 AM
+06/20/25 6:47:59 AM [INFO] - Connected to SFTP.
+06/20/25 6:48:00 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 6:48:09 AM [INFO] - Avinash Mahatpure
+06/20/25 6:48:09 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:48:38 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 6:48:42 AM [INFO] - Kevin Weidman
+06/20/25 6:48:42 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:49:34 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 6:49:38 AM [INFO] - Daniel Weston
+06/20/25 6:49:38 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 6:49:47 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 6:50:36 AM [INFO] - Before Update-AD Properties
+06/20/25 6:54:53 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 6:54:53 AM [INFO] - givenName: Daniel
+06/20/25 6:54:53 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 6:54:59 AM [ERROR] - Error moving file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure: The session is not open.
+06/20/25 6:54:59 AM [ERROR] - Error listing or processing CSV files: The session is not open.
+===== Log file started at 06/20/25 7:06:29 AM =====
+06/20/25 7:06:29 AM [INFO] - File Reader Started : 06/20/25 7:06:29 AM
+06/20/25 7:06:32 AM [INFO] - Connected to SFTP.
+06/20/25 7:06:34 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 7:06:51 AM [INFO] - Avinash Mahatpure
+06/20/25 7:06:52 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+===== Log file started at 06/20/25 7:49:37 AM =====
+06/20/25 7:49:38 AM [INFO] - File Reader Started : 06/20/25 7:49:38 AM
+06/20/25 7:49:41 AM [INFO] - Connected to SFTP.
+06/20/25 7:49:43 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 7:49:47 AM [INFO] - Avinash Mahatpure
+06/20/25 7:49:47 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 7:49:51 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 7:49:55 AM [INFO] - Kevin Weidman
+06/20/25 7:49:55 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 7:50:00 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 7:50:04 AM [INFO] - Daniel Weston
+06/20/25 7:50:04 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 7:50:18 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 7:50:19 AM [INFO] - Before Update-AD Properties
+06/20/25 7:50:19 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 7:50:19 AM [INFO] - givenName: Daniel
+06/20/25 7:50:19 AM [INFO] - AccountExp: System.__ComObject
+===== Log file started at 06/20/25 7:56:35 AM =====
+06/20/25 7:56:35 AM [INFO] - File Reader Started : 06/20/25 7:56:35 AM
+06/20/25 7:56:39 AM [INFO] - Connected to SFTP.
+06/20/25 7:56:40 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 7:56:44 AM [INFO] - Avinash Mahatpure
+06/20/25 7:56:44 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 7:56:48 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 7:56:55 AM [INFO] - Kevin Weidman
+06/20/25 7:56:55 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 7:56:58 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 7:57:01 AM [INFO] - Daniel Weston
+06/20/25 7:57:01 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 7:57:08 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 7:57:16 AM [INFO] - Before Update-AD Properties
+06/20/25 7:57:16 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 7:57:16 AM [INFO] - givenName: Daniel
+06/20/25 7:57:16 AM [INFO] - AccountExp: System.__ComObject
+06/20/25 7:58:02 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-20-2025_07-57-25-AM_Test 06172025.csv
+===== Log file started at 06/20/25 8:12:27 AM =====
+06/20/25 8:12:27 AM [INFO] - File Reader Started : 06/20/25 8:12:27 AM
+06/20/25 8:12:30 AM [INFO] - Connected to SFTP.
+06/20/25 8:12:31 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 8:12:39 AM [INFO] - Avinash Mahatpure
+06/20/25 8:12:39 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:12:42 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 8:12:44 AM [INFO] - Kevin Weidman
+06/20/25 8:12:44 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:12:47 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 8:12:51 AM [INFO] - Daniel Weston
+06/20/25 8:12:51 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:13:01 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 8:13:03 AM [INFO] - Before Update-AD Properties
+06/20/25 8:13:03 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 8:13:03 AM [INFO] - givenName: Daniel
+06/20/25 8:13:03 AM [INFO] - AccountExp: 
+06/20/25 8:13:03 AM [INFO] - ExpiresDate object is null
+06/20/25 8:13:58 AM [INFO] - Loe Das
+06/20/25 8:13:58 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:14:08 AM [ERROR] - Mail Id for the user Loe is not found
+06/20/25 8:14:10 AM [INFO] - John Wick
+06/20/25 8:14:10 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:14:13 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/20/25 8:14:15 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/20/25 8:14:15 AM [INFO] - Disconnected from SFTP server.
+06/20/25 8:14:15 AM [INFO] - File Reader Completed : 06/20/25 8:14:15 AM
+===== Log file started at 06/20/25 8:18:13 AM =====
+06/20/25 8:18:14 AM [INFO] - File Reader Started : 06/20/25 8:18:14 AM
+06/20/25 8:18:17 AM [INFO] - Connected to SFTP.
+06/20/25 8:18:19 AM [INFO] - Disconnected from SFTP server.
+06/20/25 8:18:19 AM [INFO] - File Reader Completed : 06/20/25 8:18:19 AM
+===== Log file started at 06/20/25 8:18:45 AM =====
+06/20/25 8:18:45 AM [INFO] - File Reader Started : 06/20/25 8:18:45 AM
+06/20/25 8:18:48 AM [INFO] - Connected to SFTP.
+06/20/25 8:18:49 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 8:18:57 AM [INFO] - Avinash Mahatpure
+06/20/25 8:18:57 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:19:00 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 8:19:02 AM [INFO] - Kevin Weidman
+06/20/25 8:19:02 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:19:05 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 8:19:07 AM [INFO] - Daniel Weston
+06/20/25 8:19:07 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:19:13 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 8:19:18 AM [INFO] - Before Update-AD Properties
+06/20/25 8:19:18 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 8:19:18 AM [INFO] - givenName: Daniel
+06/20/25 8:19:18 AM [INFO] - AccountExp: 
+06/20/25 8:19:18 AM [INFO] - ExpiresDate object is null
+06/20/25 8:19:36 AM [INFO] - Loe Das
+06/20/25 8:19:36 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:19:48 AM [ERROR] - Mail Id for the user Loe is not found
+06/20/25 8:19:50 AM [INFO] - John Wick
+06/20/25 8:19:50 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:19:53 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/20/25 8:19:55 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/20/25 8:19:55 AM [INFO] - Disconnected from SFTP server.
+06/20/25 8:19:55 AM [INFO] - File Reader Completed : 06/20/25 8:19:55 AM
+===== Log file started at 06/20/25 8:23:27 AM =====
+06/20/25 8:23:27 AM [INFO] - File Reader Started : 06/20/25 8:23:27 AM
+06/20/25 8:23:31 AM [INFO] - Connected to SFTP.
+06/20/25 8:23:32 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 8:23:36 AM [INFO] - Avinash Mahatpure
+06/20/25 8:23:36 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:23:39 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 8:23:41 AM [INFO] - Kevin Weidman
+06/20/25 8:23:41 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:23:44 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 8:23:47 AM [INFO] - Daniel Weston
+06/20/25 8:23:47 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:23:50 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 8:23:57 AM [INFO] - Before Update-AD Properties
+06/20/25 8:23:57 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 8:23:57 AM [INFO] - givenName: Daniel
+06/20/25 8:23:57 AM [INFO] - ExpiresDate object is null
+06/20/25 8:24:01 AM [INFO] - Loe Das
+06/20/25 8:24:02 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:24:05 AM [ERROR] - Mail Id for the user Loe is not found
+06/20/25 8:24:07 AM [INFO] - John Wick
+06/20/25 8:24:07 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:24:10 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/20/25 8:24:11 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/20/25 8:24:11 AM [INFO] - Disconnected from SFTP server.
+06/20/25 8:24:11 AM [INFO] - File Reader Completed : 06/20/25 8:24:11 AM
+===== Log file started at 06/20/25 8:32:09 AM =====
+06/20/25 8:32:09 AM [INFO] - File Reader Started : 06/20/25 8:32:09 AM
+06/20/25 8:32:12 AM [INFO] - Connected to SFTP.
+06/20/25 8:32:14 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 8:32:19 AM [INFO] - Avinash Mahatpure
+06/20/25 8:32:19 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:32:23 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 8:32:25 AM [INFO] - Kevin Weidman
+06/20/25 8:32:25 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:32:30 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 8:32:35 AM [INFO] - Daniel Weston
+06/20/25 8:32:35 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:32:42 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 8:32:53 AM [INFO] - Before Update-AD Properties
+06/20/25 8:32:53 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 8:32:53 AM [INFO] - givenName: Daniel
+06/20/25 8:34:13 AM [INFO] - ExpiresDate object is null
+06/20/25 8:34:16 AM [INFO] - Loe Das
+06/20/25 8:34:16 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:34:45 AM [ERROR] - Mail Id for the user Loe is not found
+06/20/25 8:34:48 AM [INFO] - John Wick
+06/20/25 8:34:48 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:34:51 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/20/25 8:34:52 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/20/25 8:34:53 AM [INFO] - Disconnected from SFTP server.
+06/20/25 8:34:53 AM [INFO] - File Reader Completed : 06/20/25 8:34:53 AM
+===== Log file started at 06/20/25 8:35:59 AM =====
+06/20/25 8:36:00 AM [INFO] - File Reader Started : 06/20/25 8:36:00 AM
+06/20/25 8:36:03 AM [INFO] - Connected to SFTP.
+06/20/25 8:36:04 AM [INFO] - Disconnected from SFTP server.
+06/20/25 8:36:04 AM [INFO] - File Reader Completed : 06/20/25 8:36:04 AM
+===== Log file started at 06/20/25 8:36:31 AM =====
+06/20/25 8:36:31 AM [INFO] - File Reader Started : 06/20/25 8:36:31 AM
+06/20/25 8:36:35 AM [INFO] - Connected to SFTP.
+06/20/25 8:36:36 AM [INFO] - Found CSV file: Test 06172025.csv
+06/20/25 8:36:40 AM [INFO] - Avinash Mahatpure
+06/20/25 8:36:40 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:36:44 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/20/25 8:36:46 AM [INFO] - Kevin Weidman
+06/20/25 8:36:46 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:36:48 AM [ERROR] - Mail Id for the user Kevin is not found
+06/20/25 8:36:50 AM [INFO] - Daniel Weston
+06/20/25 8:36:50 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:36:53 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/20/25 8:36:54 AM [INFO] - Before Update-AD Properties
+06/20/25 8:36:54 AM [INFO] - EmployeeID: 7FNNRONV2
+06/20/25 8:36:54 AM [INFO] - givenName: Daniel
+06/20/25 8:36:59 AM [INFO] - ExpiresDate object is null
+06/20/25 8:37:02 AM [INFO] - Loe Das
+06/20/25 8:37:02 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:37:12 AM [ERROR] - Mail Id for the user Loe is not found
+06/20/25 8:37:14 AM [INFO] - John Wick
+06/20/25 8:37:14 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/20/25 8:37:42 AM [ERROR] - No user found with email:: dwes@harmonybiosciences.com
+06/20/25 8:37:45 AM [INFO] - Downloaded file: /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv
+06/20/25 8:37:45 AM [INFO] - Disconnected from SFTP server.
+06/20/25 8:37:45 AM [INFO] - File Reader Completed : 06/20/25 8:37:45 AM

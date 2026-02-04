@@ -1,0 +1,48 @@
+===== Log file started at 06/17/25 4:14:52 AM =====
+06/17/25 4:14:53 AM [INFO] - File Reader Started : 06/17/25 4:14:53 AM
+===== Log file started at 06/17/25 6:07:52 AM =====
+06/17/25 6:07:52 AM [INFO] - File Reader Started : 06/17/25 6:07:52 AM
+===== Log file started at 06/17/25 6:13:48 AM =====
+06/17/25 6:13:48 AM [INFO] - File Reader Started : 06/17/25 6:13:48 AM
+===== Log file started at 06/17/25 6:15:40 AM =====
+06/17/25 6:15:40 AM [INFO] - File Reader Started : 06/17/25 6:15:40 AM
+06/17/25 6:15:49 AM [INFO] - Connected to SFTP.
+06/17/25 6:15:50 AM [INFO] - Found CSV file: Test 06172025.csv
+06/17/25 6:16:00 AM [INFO] - Avinash Mahatpure
+06/17/25 6:16:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/17/25 6:16:33 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/17/25 6:16:35 AM [INFO] - Kevin Weidman
+06/17/25 6:16:38 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/17/25 6:16:47 AM [ERROR] - Mail Id for this Kevin is not found
+06/17/25 6:16:48 AM [INFO] - Daniel Weston
+06/17/25 6:16:50 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/17/25 6:16:54 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/17/25 6:16:54 AM [INFO] - Before Update-AD Properties
+06/17/25 6:16:54 AM [INFO] - EmployeeID: 7FNNRONV2
+06/17/25 6:16:54 AM [INFO] - givenName: Daniel
+06/17/25 6:16:54 AM [INFO] - AccountExp: System.__ComObject
+06/17/25 6:17:12 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-17-2025_06-16-54-AM_Test 06172025.csv
+06/17/25 6:17:12 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/17/25 6:17:12 AM [INFO] - Disconnected from SFTP server.
+06/17/25 6:17:12 AM [INFO] - File Reader Completed : 06/17/25 6:17:12 AM
+===== Log file started at 06/17/25 6:22:52 AM =====
+06/17/25 6:22:52 AM [INFO] - File Reader Started : 06/17/25 6:22:52 AM
+06/17/25 6:22:57 AM [INFO] - Connected to SFTP.
+06/17/25 6:22:58 AM [INFO] - Found CSV file: Test 06172025.csv
+06/17/25 6:23:13 AM [INFO] - Avinash Mahatpure
+06/17/25 6:23:22 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/17/25 6:23:23 AM [ERROR] - Multiple users found with email: amahatpure@harmonybiosciences.com
+06/17/25 6:23:24 AM [INFO] - Kevin Weidman
+06/17/25 6:23:24 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/17/25 6:23:32 AM [ERROR] - Mail Id for this Kevin is not found
+06/17/25 6:23:32 AM [INFO] - Daniel Weston
+06/17/25 6:23:32 AM [INFO] - UserName: hbs\administrator Password : Summer@24$ IpAdddress : 10.10.20.49
+06/17/25 6:23:32 AM [INFO] - result file: System.DirectoryServices.SearchResult
+06/17/25 6:23:32 AM [INFO] - Before Update-AD Properties
+06/17/25 6:23:32 AM [INFO] - EmployeeID: 7FNNRONV2
+06/17/25 6:23:32 AM [INFO] - givenName: Daniel
+06/17/25 6:23:32 AM [INFO] - AccountExp: System.__ComObject
+06/17/25 6:23:41 AM [INFO] - Moved file Test 06172025.csv to /home/users/hbsdevsftp_ad_user/Outbound/Failure/06-17-2025_06-23-32-AM_Test 06172025.csv
+06/17/25 6:23:41 AM [ERROR] - Error downloading file /home/users/hbsdevsftp_ad_user/Outbound/Test 06172025.csv: Unable to cast COM object of type 'System.__ComObject' to interface type 'System.IConvertible'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{805E3B62-B5E9-393D-8941-377D8BF4556B}' failed due to the following error: No such interface supported (0x80004002 (E_NOINTERFACE)).
+06/17/25 6:23:41 AM [INFO] - Disconnected from SFTP server.
+06/17/25 6:23:41 AM [INFO] - File Reader Completed : 06/17/25 6:23:41 AM

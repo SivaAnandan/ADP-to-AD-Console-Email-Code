@@ -1,0 +1,10 @@
+===== Log file started at 02/16/25 9:31:30 AM =====
+02/16/25 9:31:31 AM [INFO] - File Reader Started : 02/16/25 9:31:31 AM
+02/16/25 9:31:34 AM [INFO] - Connected to SFTP.
+02/16/25 9:31:36 AM [INFO] - Disconnected from SFTP server.
+02/16/25 9:31:36 AM [INFO] - File Reader Completed : 02/16/25 9:31:36 AM
+===== Log file started at 02/16/25 9:31:43 AM =====
+02/16/25 9:31:43 AM [INFO] - File Reader Started : 02/16/25 9:31:43 AM
+02/16/25 9:31:46 AM [INFO] - Connected to SFTP.
+02/16/25 9:31:48 AM [INFO] - Disconnected from SFTP server.
+02/16/25 9:31:48 AM [INFO] - File Reader Completed : 02/16/25 9:31:48 AM
